@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yelinaung/work/android/android-sdk/extras/android/m2repository/com/android/databinding/adapters/1.0-rc0/adapters-1.0-rc0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="43cd8b4485a9770ddc4bbf0eb28ba3a188d0880b">
+        <dex dex="/Users/yelinaung/work/android/samples/SimpleDataBinding/app/build/intermediates/pre-dexed/debug/adapters-1.0-rc0-542cf58a3f3eafd0dcd93a0fc7deb8f166405225.jar" />
+    </item>
+    <item
+        jar="/Users/yelinaung/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/1.0-rc0/34ddf14599044eab34480d4ae6aac464c431eff3/baseLibrary-1.0-rc0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="34ddf14599044eab34480d4ae6aac464c431eff3">
+        <dex dex="/Users/yelinaung/work/android/samples/SimpleDataBinding/app/build/intermediates/pre-dexed/debug/baseLibrary-1.0-rc0-25b22ed81e2046840643cba78793c328f3686653.jar" />
+    </item>
+    <item
+        jar="/Users/yelinaung/work/android/samples/SimpleDataBinding/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/yelinaung/work/android/samples/SimpleDataBinding/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-412b909e3f0a7f6b550048ce325a694dc0dc0db2.jar" />
+    </item>
+    <item
+        jar="/Users/yelinaung/work/android/android-sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/yelinaung/work/android/samples/SimpleDataBinding/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-6dfed7c8e67f70959e9bb973363b7791aab7f06f.jar" />
+    </item>
+    <item
+        jar="/Users/yelinaung/work/android/samples/SimpleDataBinding/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/yelinaung/work/android/samples/SimpleDataBinding/app/build/intermediates/pre-dexed/debug/classes-b8a148191df110a856c22565590468a0ddb1f3bb.jar" />
+    </item>
+    <item
+        jar="/Users/yelinaung/work/android/samples/SimpleDataBinding/app/build/intermediates/exploded-aar/com.android.databinding/library/1.0-rc0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="7ce6a308434b0569d59dc70928fca93c4f2f18a4">
+        <dex dex="/Users/yelinaung/work/android/samples/SimpleDataBinding/app/build/intermediates/pre-dexed/debug/classes-760b529e216a2a2be79cfcdf16592c53ae64f7b7.jar" />
+    </item>
+    <item
+        jar="/Users/yelinaung/work/android/samples/SimpleDataBinding/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/yelinaung/work/android/samples/SimpleDataBinding/app/build/intermediates/pre-dexed/debug/classes-de9974f7539014b5521fea89b0ccf2f277809c2a.jar" />
+    </item>
+
+</items>
